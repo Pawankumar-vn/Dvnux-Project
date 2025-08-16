@@ -8,11 +8,7 @@ This project leverages modern web technologies for optimal performance and user 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## 🌐 Live Demo & Source Code
-
-- [🚀 Live Demo](https://pawankumar-vn.github.io/Dvnux-Project/)  
-- [📂 Source Code](https://github.com/Pawankumar-vn/Dvnux-Project)
-
+## [🌐 Live Demo](https://pawankumar-vn.github.io/Dvnux-Project/)  
 
 ## 🎯 About The Project
 
@@ -27,15 +23,6 @@ Many people are intimidated by Linux or don't know where to start. With hundreds
 - **Building Confidence**: Hands-on terminal guides and practical examples
 - **Highlighting Benefits**: Clear comparisons showing Linux advantages over other systems
 
-
-
-## 🛠️ Built With
-
-This project leverages modern web technologies for optimal performance and user experience:
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## 🚀 Getting Started
 
